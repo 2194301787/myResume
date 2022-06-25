@@ -60,10 +60,10 @@
     主要技术：vuejs、reactjs、Taro、typescript、ElementUI
 
     项目职责：
-    ·独立完成系统所有功能模块，负责项目搭建和维护。
-    ·通过与后台接口联动，并使用Baidu Map Api实时显示快递员位置。
-    ·基于Vue-pdf、pdf.js、html2canvas封装组件、实现订单确认与导出功能。
-    ·封装Echarts对数据进行可视化展示。
-    ·基于ElementUI封装可复用组件。
+    · 独立完成系统所有功能模块，负责项目搭建和维护。
+    · 通过与后台接口联动，并使用Baidu Map Api实时显示快递员位置。
+    · 基于Vue-pdf、pdf.js、html2canvas封装组件、实现订单确认与导出功能。
+    · 封装Echarts对数据进行可视化展示。
+    · 基于ElementUI封装可复用组件。
 
     
