@@ -38,7 +38,7 @@
 #### h5比赛  2019-01 ~ 2019-03
 
     项目职责：
-    
+
     · 使用html、html5、css、css3和原生js进行项目编写。
     · 搭建通用框架，并兼容移动端。
     · 对h5网站的各种布局和动画编写。
@@ -54,4 +54,16 @@
 
     · 熟悉node的知识并用于实际。
     · 熟悉mongodb的API和使用。
+
+#### 移动端商城
+
+    主要技术：vuejs、reactjs、Taro、typescript、ElementUI
+
+    项目职责：
+    ·独立完成系统所有功能模块，负责项目搭建和维护。
+    ·通过与后台接口联动，并使用Baidu Map Api实时显示快递员位置。
+    ·基于Vue-pdf、pdf.js、html2canvas封装组件、实现订单确认与导出功能。
+    ·封装Echarts对数据进行可视化展示。
+    ·基于ElementUI封装可复用组件。
+
     
