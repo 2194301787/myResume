@@ -55,6 +55,7 @@ Vue.js、Taro、JavaScript、Vite、Webpack
 ### AI 发型合成 Pro (AI Hair Synthesis)
 
 使用技术: Node.js (Express)、ComfyUI (Workflow API)、WebAssembly (Mediapipe)、Canvas
+
 在线体验: https://hairfitai.top
 
 - 自主设计并开发了一款基于 AI 的实时发型模拟与合成系统：通过前端轻量化 AI 模型与后端高性能生成流结合，实现了从“上传照片”到“发型自动对齐”再到“AI 渲染优化”的完整闭环。
