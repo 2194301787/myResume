@@ -43,7 +43,7 @@ React、React Native、Java (Android)、Swift (iOS)、TypeScript、Metro (Metro 
 ## 惟客云 （ 2021年7月 ~ 2022年6月 ）
 
 使用技术：
-Vue.js、Taro、JavaScript、Vuex、Webpack
+Vue.js、Taro、JavaScript、Vite、Webpack
 
 - 主导基于 Vue Slot 的高度可复用布局架构设计：通过抽象通用组件的插槽（Slot）接口，构建了标准化的页面布局容器，显著提升了跨模块业务组件的开发灵活性与代码复用率。
 - 负责复杂交互场景下的单页应用（SPA）性能优化：针对多个高频业务模块，设计并实现了多级路由切换下的复杂状态管理，并结合 keep-alive 策略优化组件缓存，有效消除了页面跳转时的卡顿感。
@@ -55,6 +55,7 @@ Vue.js、Taro、JavaScript、Vuex、Webpack
 ### AI 发型合成 Pro (AI Hair Synthesis)
 
 使用技术: Node.js (Express)、ComfyUI (Workflow API)、WebAssembly (Mediapipe)、Canvas
+在线体验: https://hairfitai.top
 
 - 自主设计并开发了一款基于 AI 的实时发型模拟与合成系统：通过前端轻量化 AI 模型与后端高性能生成流结合，实现了从“上传照片”到“发型自动对齐”再到“AI 渲染优化”的完整闭环。
 
